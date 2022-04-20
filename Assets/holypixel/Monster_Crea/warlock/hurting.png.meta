@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: 706db1b8c5b64034fbb4417697817bf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4631911653591659378
+    second: hurting_0
+  - first:
+      213: -7122374989851295053
+    second: hurting_1
+  - first:
+      213: -9074523434751135895
+    second: hurting_2
+  - first:
+      213: 3912752763464675951
+    second: hurting_3
+  - first:
+      213: -5196834791108353347
+    second: hurting_4
+  - first:
+      213: -6779627972710237097
+    second: hurting_5
+  - first:
+      213: 8833747487165079914
+    second: hurting_6
+  - first:
+      213: -7879141238818894016
+    second: hurting_7
+  - first:
+      213: 1451804247154323846
+    second: hurting_8
+  - first:
+      213: 8311289811306845872
+    second: hurting_9
+  - first:
+      213: 5308168081415830234
+    second: hurting_10
+  - first:
+      213: -2228652649638864179
+    second: hurting_11
+  - first:
+      213: 7350980998658958218
+    second: hurting_12
+  - first:
+      213: 7802681719096625723
+    second: hurting_13
+  - first:
+      213: -8898653083558935400
+    second: hurting_14
+  - first:
+      213: -8446727998505893245
+    second: hurting_15
+  - first:
+      213: 8592773618014913612
+    second: hurting_16
+  - first:
+      213: 7790626651678238563
+    second: hurting_17
+  - first:
+      213: -7045866341889545539
+    second: hurting_18
+  - first:
+      213: 7664899568233284444
+    second: hurting_19
+  - first:
+      213: -170772393238834572
+    second: hurting_20
+  - first:
+      213: 8294356709091350962
+    second: hurting_21
+  - first:
+      213: 3242008482827053731
+    second: hurting_22
+  - first:
+      213: -8848463950073793403
+    second: hurting_23
+  - first:
+      213: -1456760117328790134
+    second: hurting_24
+  - first:
+      213: 328565338071872713
+    second: hurting_25
+  - first:
+      213: 6457982687530496937
+    second: hurting_26
+  - first:
+      213: -5553226311447152777
+    second: hurting_27
+  - first:
+      213: 2240010605945379083
+    second: hurting_28
+  - first:
+      213: -1144097581424328461
+    second: hurting_29
+  - first:
+      213: 857673888306619318
+    second: hurting_30
+  - first:
+      213: 4469705784617998273
+    second: hurting_31
+  - first:
+      213: 6569038831172808540
+    second: hurting_32
+  - first:
+      213: -7491448644178111372
+    second: hurting_33
+  - first:
+      213: -7208777908549516151
+    second: hurting_34
+  - first:
+      213: -908620940819333143
+    second: hurting_35
+  - first:
+      213: -6571162509074844240
+    second: hurting_36
+  - first:
+      213: 8726466465452998948
+    second: hurting_37
+  - first:
+      213: -4370684796435028147
+    second: hurting_38
+  - first:
+      213: -136786262007513547
+    second: hurting_39
+  - first:
+      213: 9214797802520832173
+    second: hurting_40
+  - first:
+      213: 2257073994871557116
+    second: hurting_41
+  - first:
+      213: -4753588017903630966
+    second: hurting_42
+  - first:
+      213: 9128965473936935049
+    second: hurting_43
+  - first:
+      213: -7315404230068301617
+    second: hurting_44
+  - first:
+      213: -3993367092276296716
+    second: hurting_45
+  - first:
+      213: -3968276206744177289
+    second: hurting_46
+  - first:
+      213: -1641738569197273754
+    second: hurting_47
+  - first:
+      213: 250082723861909430
+    second: hurting_48
+  - first:
+      213: -772258020246205672
+    second: hurting_49
+  - first:
+      213: 3912121818465515310
+    second: hurting_50
+  - first:
+      213: -5685169788608856377
+    second: hurting_51
+  - first:
+      213: -7350753634891753753
+    second: hurting_52
+  - first:
+      213: 3243377527550044273
+    second: hurting_53
+  - first:
+      213: -5204690444930208640
+    second: hurting_54
+  - first:
+      213: 9127882977911859669
+    second: hurting_55
+  - first:
+      213: -5529020750036456107
+    second: hurting_56
+  - first:
+      213: -3964015704376711974
+    second: hurting_57
+  - first:
+      213: -5319573837717662928
+    second: hurting_58
+  - first:
+      213: -5362763776034141695
+    second: hurting_59
+  - first:
+      213: -280725471868791124
+    second: hurting_60
+  - first:
+      213: 31670093974824625
+    second: hurting_61
+  - first:
+      213: 1767476850143116636
+    second: hurting_62
+  - first:
+      213: -6138340895331961586
+    second: hurting_63
+  - first:
+      213: 3756318324945932912
+    second: hurting_64
+  - first:
+      213: -5812203691256517573
+    second: hurting_65
+  - first:
+      213: 6914895969707686915
+    second: hurting_66
+  - first:
+      213: -6059079647029897088
+    second: hurting_67
+  - first:
+      213: 2141731635316538220
+    second: hurting_68
+  - first:
+      213: -6964341311011977531
+    second: hurting_69
+  - first:
+      213: -4734519156173134905
+    second: hurting_70
+  - first:
+      213: -995960881361032121
+    second: hurting_71
+  - first:
+      213: -7797381722445565642
+    second: hurting_72
+  - first:
+      213: 7246062831692181907
+    second: hurting_73
+  - first:
+      213: 1628361377241963048
+    second: hurting_74
+  - first:
+      213: 6326845256701636704
+    second: hurting_75
+  - first:
+      213: 2719962647170714449
+    second: hurting_76
+  - first:
+      213: -1671546897473537479
+    second: hurting_77
+  - first:
+      213: -583698971877272553
+    second: hurting_78
+  - first:
+      213: -2407459829819603412
+    second: hurting_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hurting_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5325
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c4da854e428bfb0800000000000000
+      internalID: -4631911653591659378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5325
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b289c4cead382d90800000000000000
+      internalID: -7122374989851295053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 5325
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f63b5d301d01280800000000000000
+      internalID: -9074523434751135895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_3
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 5325
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f627d3068e3ec4630800000000000000
+      internalID: 3912752763464675951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_4
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 5325
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2689f9a4221e7b0800000000000000
+      internalID: -5196834791108353347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4970
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cfd41674ce9e1a0800000000000000
+      internalID: -6779627972710237097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4970
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6169ff4986c79a70800000000000000
+      internalID: 8833747487165079914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_7
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 4970
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f811de9caa7a290800000000000000
+      internalID: -7879141238818894016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_8
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 4970
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68179035548d52410800000000000000
+      internalID: 1451804247154323846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_9
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 4970
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6944c5c02a75370800000000000000
+      internalID: 8311289811306845872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4615
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada7bd40fb66aa940800000000000000
+      internalID: 5308168081415830234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4615
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcada8a193c3211e0800000000000000
+      internalID: -2228652649638864179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 4615
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83a6b7654ee30660800000000000000
+      internalID: 7350980998658958218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_13
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 4615
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a4032eea1b84c60800000000000000
+      internalID: 7802681719096625723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_14
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 4615
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8940907ea22a18480800000000000000
+      internalID: -8898653083558935400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4260
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382c5b653a137ca80800000000000000
+      internalID: -8446727998505893245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_16
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4260
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448021441aaf3770800000000000000
+      internalID: 8592773618014913612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_17
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 4260
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367e8f6c9addd1c60800000000000000
+      internalID: 7790626651678238563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_18
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 4260
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaeac484ed083e90800000000000000
+      internalID: -7045866341889545539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_19
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 4260
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5307930c813f5a60800000000000000
+      internalID: 7664899568233284444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3905
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4725e83c96b41adf0800000000000000
+      internalID: -170772393238834572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3905
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b994c54b797b1370800000000000000
+      internalID: 8294356709091350962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_22
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 3905
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaa5b9c98dedfc20800000000000000
+      internalID: 3242008482827053731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_23
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 3905
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58470082be0f33580800000000000000
+      internalID: -8848463950073793403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_24
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 3905
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d39ab346c88cbe0800000000000000
+      internalID: -1456760117328790134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3550
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4b7452f6c4f8400800000000000000
+      internalID: 328565338071872713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3550
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3b0e7d90d5f9950800000000000000
+      internalID: 6457982687530496937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_27
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 3550
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777f6dc871afee2b0800000000000000
+      internalID: -5553226311447152777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_28
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 3550
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b095b7c27cd161f10800000000000000
+      internalID: 2240010605945379083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_29
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 3550
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0c1d6bf495f10f0800000000000000
+      internalID: -1144097581424328461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3195
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3e4a57bd117eb00800000000000000
+      internalID: 857673888306619318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 3195
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71aa6cab5970e30800000000000000
+      internalID: 4469705784617998273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_32
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 3195
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f6dcf330ae92b50800000000000000
+      internalID: 6569038831172808540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_33
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 3195
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4749ea64627090890800000000000000
+      internalID: -7491448644178111372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_34
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 3195
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98409389fa645fb90800000000000000
+      internalID: -7208777908549516151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2840
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef7bf2811ee363f0800000000000000
+      internalID: -908620940819333143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2840
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5ba35738a8ec4a0800000000000000
+      internalID: -6571162509074844240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2840
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214fa9f303aa1970800000000000000
+      internalID: 8726466465452998948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_38
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2840
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d472a43a5553853c0800000000000000
+      internalID: -4370684796435028147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_39
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2840
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e73e29e990a1ef0800000000000000
+      internalID: -136786262007513547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2485
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8ed4087c981ef70800000000000000
+      internalID: 9214797802520832173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_41
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2485
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb471007dcb25f10800000000000000
+      internalID: 2257073994871557116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_42
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2485
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a850d4022ecd70eb0800000000000000
+      internalID: -4753588017903630966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_43
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2485
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98801d03bb990be70800000000000000
+      internalID: 9128965473936935049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_44
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2485
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc093668c967a7a90800000000000000
+      internalID: -7315404230068301617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2130
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3032f89c5b498c0800000000000000
+      internalID: -3993367092276296716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_46
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2130
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f06690d9dde8c0800000000000000
+      internalID: -3968276206744177289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_47
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2130
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d30f8387f5739e0800000000000000
+      internalID: -1641738569197273754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_48
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2130
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf404099e8787300800000000000000
+      internalID: 250082723861909430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_49
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2130
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b47441c636845f0800000000000000
+      internalID: -772258020246205672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1775
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2731bb0116aa4630800000000000000
+      internalID: 3912121818465515310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1775
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cebf26d2383a11b0800000000000000
+      internalID: -5685169788608856377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_52
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1775
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e69dd8d380ecf990800000000000000
+      internalID: -7350753634891753753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_53
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1775
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178ea1a5daac20d20800000000000000
+      internalID: 3243377527550044273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_54
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1775
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ca010bd9935c7b0800000000000000
+      internalID: -5204690444930208640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1420
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d965c1f431ccae70800000000000000
+      internalID: 9127882977911859669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_56
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1420
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d205efbe8f443b0800000000000000
+      internalID: -5529020750036456107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_57
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1420
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad46e8818bcfcf8c0800000000000000
+      internalID: -3964015704376711974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_58
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1420
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033906667c31d26b0800000000000000
+      internalID: -5319573837717662928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_59
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1420
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a072342c2a395b0800000000000000
+      internalID: -5362763776034141695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1065
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca65bd1bba9aa1cf0800000000000000
+      internalID: -280725471868791124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_61
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1065
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66f5d58c3807000800000000000000
+      internalID: 31670093974824625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_62
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1065
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5db189a4d6578810800000000000000
+      internalID: 1767476850143116636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_63
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1065
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e053c7f5a7b30daa0800000000000000
+      internalID: -6138340895331961586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_64
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 1065
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07251bd5d9f112430800000000000000
+      internalID: 3756318324945932912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ce0748987e65fa0800000000000000
+      internalID: -5812203691256517573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_66
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 710
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cf43d6f35a6ff50800000000000000
+      internalID: 6914895969707686915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_67
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 710
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088dbf4d923d9eba0800000000000000
+      internalID: -6059079647029897088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_68
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 710
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b324f2395f8bd10800000000000000
+      internalID: 2141731635316538220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_69
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 710
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c68d8ee970b95f90800000000000000
+      internalID: -6964341311011977531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 355
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a40a79eb9b4eb0800000000000000
+      internalID: -4734519156173134905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_71
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 355
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c6a40fad2ad22f0800000000000000
+      internalID: -995960881361032121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_72
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 355
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631328fb2a22ac390800000000000000
+      internalID: -7797381722445565642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_73
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 355
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3917c2f01cf2f8460800000000000000
+      internalID: 7246062831692181907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_74
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 355
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a19709b0a199610800000000000000
+      internalID: 1628361377241963048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060f09a6d387dc750800000000000000
+      internalID: 6326845256701636704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_76
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b01fadd9f3fb520800000000000000
+      internalID: 2719962647170714449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_77
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93afea6f3f87dc8e0800000000000000
+      internalID: -1671546897473537479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_78
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 0
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7149e7da0e846e7f0800000000000000
+      internalID: -583698971877272553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hurting_79
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 0
+        width: 303
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2684904a0cf69ed0800000000000000
+      internalID: -2407459829819603412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
